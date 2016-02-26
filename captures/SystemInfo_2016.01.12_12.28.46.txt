@@ -1,0 +1,436 @@
+CURRENT STATS:
+  * system / 1000 / v22:
+           TOTAL: 100% (43MB-43MB-43MB/36MB-36MB-36MB over 1)
+      Persistent: 100% (43MB-43MB-43MB/36MB-36MB-36MB over 1)
+  * com.google.android.wearable.app / u0a4 / v722520221:
+           TOTAL: 100% (40MB-42MB-45MB/35MB-37MB-38MB over 6)
+             Top: 100% (40MB-42MB-45MB/35MB-37MB-38MB over 6)
+          Imp Fg: 0.02%
+  * com.motorola.targetnotif / u0a14 / v1050046:
+           TOTAL: 100% (17MB-17MB-17MB/13MB-13MB-13MB over 1)
+          Imp Fg: 100% (17MB-17MB-17MB/13MB-13MB-13MB over 1)
+  * com.google.android.gms.persistent / u0a12 / v8301534:
+           TOTAL: 100% (30MB-30MB-30MB/23MB-23MB-23MB over 1)
+          Imp Fg: 100% (30MB-30MB-30MB/23MB-23MB-23MB over 1)
+          Imp Bg: 0.03%
+  * com.google.android.clockwork.systemui / u0a8 / v22:
+           TOTAL: 100% (3.4MB-3.4MB-3.4MB/2.2MB-2.2MB-2.2MB over 1)
+      Persistent: 100% (3.4MB-3.4MB-3.4MB/2.2MB-2.2MB-2.2MB over 1)
+  * com.google.android.apps.wearable.settings / 1000 / v22:
+           TOTAL: 100% (4.3MB-12MB-16MB/3.1MB-9.1MB-12MB over 3)
+             Top: 2.0% (16MB-16MB-16MB/12MB-12MB-12MB over 1)
+          Imp Fg: 98% (4.3MB-10MB-16MB/3.1MB-7.6MB-12MB over 2)
+  * com.motorola.omni / u0a15 / v1000000:
+           TOTAL: 100% (4.3MB-4.3MB-4.3MB/2.9MB-2.9MB-2.9MB over 1)
+          Imp Fg: 100% (4.3MB-4.3MB-4.3MB/2.9MB-2.9MB-2.9MB over 1)
+  * com.google.process.gapps / u0a12 / v22:
+           TOTAL: 100% (26MB-26MB-27MB/19MB-19MB-20MB over 4)
+             Top: 0.20%
+          Imp Fg: 22% (27MB-27MB-27MB/20MB-20MB-20MB over 1)
+         Service: 77% (26MB-26MB-26MB/19MB-19MB-19MB over 3)
+        Receiver: 0.03%
+        (Cached): 0.10%
+  * com.google.android.wearable.ambient / u0a3 / v502152022:
+           TOTAL: 100% (3.2MB-3.2MB-3.2MB/2.1MB-2.1MB-2.1MB over 1)
+             Top: 1.4%
+          Imp Fg: 98% (3.2MB-3.2MB-3.2MB/2.1MB-2.1MB-2.1MB over 1)
+  * com.android.bluetooth / 1002 / v22:
+           TOTAL: 97% (7.0MB-7.0MB-7.0MB/5.6MB-5.6MB-5.6MB over 1)
+          Imp Fg: 97% (7.0MB-7.0MB-7.0MB/5.6MB-5.6MB-5.6MB over 1)
+  * com.motorola.ccc / u0a2 / v6:
+           TOTAL: 97% (5.8MB-5.8MB-5.8MB/4.2MB-4.2MB-4.2MB over 1)
+         Service: 97% (5.8MB-5.8MB-5.8MB/4.2MB-4.2MB-4.2MB over 1)
+        Receiver: 0.03%
+  * com.tencent.mm / u0a23 / v5:
+           TOTAL: 91% (4.9MB-5.2MB-5.6MB/3.9MB-4.2MB-4.5MB over 2)
+          Imp Fg: 5.3%
+         Service: 85% (4.9MB-5.2MB-5.6MB/3.9MB-4.2MB-4.5MB over 2)
+  * com.google.android.gms / u0a12 / v8301534:
+           TOTAL: 7.6% (22MB-22MB-22MB/16MB-16MB-16MB over 1)
+          Imp Fg: 1.6%
+         Service: 5.8% (22MB-22MB-22MB/16MB-16MB-16MB over 1)
+        Receiver: 0.12%
+        (Cached): 92% (22MB-22MB-22MB/15MB-15MB-15MB over 1)
+  * com.google.android.music / u0a29 / v3050:
+           TOTAL: 2.8%
+          Imp Fg: 2.7%
+         Service: 0.12%
+        Receiver: 0.02%
+        (Cached): 96% (6.2MB-6.2MB-6.3MB/5.0MB-5.1MB-5.2MB over 2)
+  * com.google.android.deskclock / u0a20 / v42102700:
+           TOTAL: 2.8%
+          Imp Fg: 2.7%
+         Service: 0.06%
+        Receiver: 0.08%
+        (Cached): 94% (5.5MB-5.5MB-5.5MB/4.3MB-4.3MB-4.3MB over 1)
+  * com.android.vending / u0a16 / v80390050:
+           TOTAL: 1.9%
+          Imp Fg: 1.5%
+         Service: 0.37%
+        Receiver: 0.02%
+        (Cached): 92% (6.1MB-6.1MB-6.2MB/4.9MB-4.9MB-5.0MB over 2)
+  * com.example.android.wearable.photoswatchface / u0a6 / v22:
+           TOTAL: 1.5%
+          Imp Fg: 1.5%
+        (Cached): 90% (3.7MB-3.7MB-3.7MB/3.0MB-3.0MB-3.0MB over 1)
+  * com.skype.raider / u0a33 / v101319276:
+           TOTAL: 1.5%
+          Imp Fg: 1.5%
+        (Cached): 89% (5.1MB-5.1MB-5.1MB/4.2MB-4.2MB-4.2MB over 1)
+  * com.google.android.keep / u0a24 / v2006:
+           TOTAL: 1.4%
+          Imp Fg: 1.4%
+        (Cached): 90% (5.6MB-5.6MB-5.6MB/4.8MB-4.8MB-4.8MB over 1)
+  * com.google.android.apps.wearable.bugreportsender / 2000 / v22:
+           TOTAL: 1.3%
+          Imp Fg: 1.3%
+        (Cached): 90% (3.8MB-3.8MB-3.8MB/3.0MB-3.0MB-3.0MB over 1)
+  * com.android.providers.calendar / u0a1 / v22:
+           TOTAL: 0.28%
+         Service: 0.21%
+        Receiver: 0.07%
+        (Cached): 96% (3.6MB-3.6MB-3.6MB/2.6MB-2.6MB-2.6MB over 2)
+  * android.process.media / u0a11 / v800:
+           TOTAL: 0.26%
+          Imp Fg: 0.02%
+         Service: 0.13%
+        Receiver: 0.10%
+        (Cached): 100% (5.6MB-5.6MB-5.6MB/4.2MB-4.2MB-4.2MB over 1)
+  * android.process.acore / u0a9 / v22:
+           TOTAL: 0.18%
+        Receiver: 0.18%
+        (Cached): 82% (5.7MB-5.7MB-5.7MB/4.6MB-4.6MB-4.6MB over 1)
+
+Run time Stats:
+  SOn /Norm: +11m7s53ms (running)
+      TOTAL: +11m7s53ms
+
+Memory usage:
+  Kernel : 57MB (8 samples)
+  Native : 31MB (8 samples)
+  Top    : 428KB (6 samples)
+  ImpFg  : 20MB (14 samples)
+  Service: 26MB (22 samples)
+  Receivr: 52KB (21 samples)
+  CchEmty: 46MB (12 samples)
+  Cached : 125MB (8 samples)
+  Free   : 9.2MB (8 samples)
+  TOTAL  : 316MB
+
+          Start time: 2016-01-12 12:10:27
+  Total elapsed time: +18m18s683ms (partial) libart.so
+
+AGGREGATED OVER LAST 24 HOURS:
+  * system / 1000 / v22:
+           TOTAL: 100% (28MB-34MB-50MB/25MB-30MB-48MB over 10)
+      Persistent: 100% (28MB-34MB-50MB/25MB-30MB-48MB over 10)
+  * com.google.android.wearable.app / u0a4 / v722520221:
+           TOTAL: 99% (16MB-42MB-51MB/13MB-38MB-47MB over 54)
+             Top: 85% (26MB-43MB-51MB/21MB-38MB-47MB over 51)
+          Imp Fg: 15% (16MB-25MB-30MB/13MB-21MB-26MB over 3)
+  * com.google.android.clockwork.systemui / u0a8 / v22:
+           TOTAL: 99% (3.0MB-3.5MB-4.2MB/2.2MB-2.4MB-2.9MB over 10)
+      Persistent: 99% (3.0MB-3.5MB-4.2MB/2.2MB-2.4MB-2.9MB over 10)
+  * com.google.android.apps.wearable.settings / 1000 / v22:
+           TOTAL: 99% (4.3MB-12MB-18MB/3.1MB-8.9MB-14MB over 15)
+             Top: 1.6% (16MB-16MB-16MB/12MB-12MB-12MB over 3)
+          Imp Fg: 98% (4.3MB-11MB-18MB/3.1MB-8.1MB-14MB over 12)
+        (Cached): 0.03%
+  * com.google.android.wearable.ambient / u0a3 / v502152022:
+           TOTAL: 99% (3.1MB-3.4MB-3.9MB/1.9MB-2.4MB-2.9MB over 13)
+             Top: 0.85% (3.3MB-3.3MB-3.3MB/1.9MB-1.9MB-1.9MB over 1)
+          Imp Fg: 98% (3.1MB-3.4MB-3.9MB/2.1MB-2.5MB-2.9MB over 12)
+         Service: 0.01%
+  * com.android.bluetooth / 1002 / v22:
+           TOTAL: 99% (5.3MB-6.4MB-7.4MB/4.7MB-5.3MB-5.7MB over 10)
+          Imp Fg: 99% (5.3MB-6.4MB-7.4MB/4.7MB-5.3MB-5.7MB over 10)
+  * com.motorola.omni / u0a15 / v1000000:
+           TOTAL: 99% (4.3MB-7.0MB-15MB/2.9MB-5.6MB-11MB over 14)
+             Top: 0.78% (4.6MB-7.9MB-15MB/3.3MB-5.9MB-11MB over 3)
+          Imp Fg: 89% (4.3MB-7.0MB-14MB/2.9MB-5.6MB-11MB over 9)
+         Service: 8.6% (4.7MB-6.0MB-7.2MB/3.5MB-4.7MB-5.8MB over 2)
+  * com.google.android.gms.persistent / u0a12 / v8301534:
+           TOTAL: 98% (6.6MB-24MB-33MB/3.6MB-19MB-26MB over 10)
+          Imp Fg: 81% (23MB-28MB-33MB/19MB-23MB-26MB over 8)
+          Imp Bg: 18% (6.6MB-7.0MB-7.5MB/3.6MB-4.2MB-4.8MB over 2)
+      Service Rs: 0.01%
+  * com.motorola.ccc / u0a2 / v6:
+           TOTAL: 98% (4.5MB-5.4MB-5.8MB/3.5MB-4.1MB-4.2MB over 9)
+         Service: 98% (4.5MB-5.4MB-5.8MB/3.5MB-4.1MB-4.2MB over 9)
+        Receiver: 0.01%
+  * com.google.process.gapps / u0a12 / v22:
+           TOTAL: 98% (8.6MB-21MB-27MB/6.9MB-16MB-20MB over 58)
+             Top: 0.02%
+          Imp Fg: 11% (20MB-25MB-27MB/18MB-19MB-20MB over 4)
+          Imp Bg: 0.05%
+         Service: 87% (8.6MB-21MB-26MB/6.9MB-16MB-19MB over 54)
+        Receiver: 0.01%
+        (Cached): 0.33%
+  * com.motorola.targetnotif / u0a14 / v1050046:
+           TOTAL: 98% (10MB-17MB-21MB/8.5MB-13MB-16MB over 14)
+             Top: 6.7% (18MB-19MB-21MB/13MB-15MB-16MB over 5)
+          Imp Fg: 83% (10MB-16MB-19MB/8.5MB-13MB-15MB over 8)
+         Service: 7.7% (13MB-13MB-13MB/9.0MB-9.0MB-9.0MB over 1)
+  * com.tencent.mm / u0a23 / v5:
+           TOTAL: 57% (3.4MB-4.7MB-5.6MB/2.5MB-3.7MB-4.5MB over 6)
+          Imp Fg: 0.86%
+         Service: 57% (3.4MB-4.7MB-5.6MB/2.5MB-3.7MB-4.5MB over 6)
+  * com.google.android.gms.wearable / u0a12 / v7899534:
+           TOTAL: 19% (12MB-13MB-15MB/8.1MB-10.0MB-12MB over 2)
+          Imp Fg: 19% (12MB-13MB-15MB/8.1MB-10.0MB-12MB over 2)
+  * com.android.defcontainer / u0a10 / v22:
+           TOTAL: 11% (2.4MB-2.5MB-2.6MB/1.6MB-1.6MB-1.7MB over 2)
+          Imp Fg: 11% (2.4MB-2.5MB-2.6MB/1.6MB-1.6MB-1.7MB over 2)
+        (Cached): 42% (2.2MB-2.7MB-2.9MB/1.5MB-2.1MB-2.3MB over 4)
+  * com.google.android.gms / u0a12 / v8301534:
+           TOTAL: 9.9% (9.3MB-14MB-22MB/6.3MB-11MB-17MB over 12)
+          Imp Fg: 0.84%
+         Service: 8.9% (9.3MB-14MB-22MB/6.3MB-11MB-17MB over 12)
+      Service Rs: 0.01%
+        Receiver: 0.14%
+        (Cached): 88% (7.2MB-19MB-22MB/4.3MB-14MB-17MB over 34)
+  * com.google.android.apps.wearable.setup / u0a7 / v22:
+           TOTAL: 8.0% (19MB-20MB-21MB/14MB-15MB-16MB over 5)
+             Top: 8.0% (19MB-20MB-21MB/14MB-15MB-16MB over 5)
+        (Cached): 26% (16MB-16MB-16MB/12MB-12MB-12MB over 1)
+  * com.google.android.clockwork.packageinstaller / u0a5 / v22:
+           TOTAL: 5.0% (4.6MB-4.6MB-4.6MB/3.4MB-3.4MB-3.4MB over 1)
+         Service: 5.0% (4.6MB-4.6MB-4.6MB/3.4MB-3.4MB-3.4MB over 1)
+        (Cached): 25% (4.1MB-4.1MB-4.1MB/2.9MB-2.9MB-2.9MB over 1)
+  * com.android.vending / u0a16 / v80390050:
+           TOTAL: 4.7% (7.4MB-7.4MB-7.4MB/6.1MB-6.1MB-6.1MB over 1)
+          Imp Fg: 4.1% (7.4MB-7.4MB-7.4MB/6.1MB-6.1MB-6.1MB over 1)
+          Imp Bg: 0.07%
+         Service: 0.50%
+        Receiver: 0.05%
+        (Cached): 93% (4.5MB-5.5MB-6.7MB/3.8MB-4.5MB-5.3MB over 23)
+  * de.ludetis.android.myheartbeat / u0a41 / v1:
+           TOTAL: 3.8% (11MB-13MB-16MB/7.9MB-11MB-14MB over 4)
+             Top: 3.8% (11MB-13MB-16MB/7.9MB-11MB-14MB over 4)
+        Receiver: 0.04%
+      (Last Act): 42% (10MB-12MB-14MB/7.7MB-10.0MB-12MB over 4)
+        (Cached): 12%
+  * com.google.android.deskclock / u0a20 / v42102700:
+           TOTAL: 1.1%
+          Imp Fg: 0.97%
+         Service: 0.06%
+        Receiver: 0.03%
+        (Cached): 97% (3.3MB-4.7MB-6.0MB/2.2MB-3.8MB-4.9MB over 11)
+  * com.google.android.music / u0a29 / v3050:
+           TOTAL: 0.90%
+          Imp Fg: 0.86%
+         Service: 0.03%
+        Receiver: 0.01%
+        (Cached): 76% (3.1MB-5.8MB-7.2MB/2.4MB-4.9MB-6.2MB over 8)
+  * com.google.android.keep / u0a24 / v2006:
+           TOTAL: 0.66%
+          Imp Fg: 0.66%
+        (Cached): 57% (3.4MB-4.8MB-5.7MB/2.7MB-4.1MB-4.8MB over 5)
+  * com.example.android.wearable.photoswatchface / u0a6 / v22:
+           TOTAL: 0.63%
+          Imp Fg: 0.63%
+        (Cached): 64% (2.4MB-3.3MB-3.8MB/1.9MB-2.6MB-3.0MB over 5)
+  * com.google.android.apps.wearable.bugreportsender / 2000 / v22:
+           TOTAL: 0.60%
+          Imp Fg: 0.60%
+        (Cached): 70% (2.4MB-3.2MB-3.8MB/1.8MB-2.5MB-3.0MB over 6)
+  * com.skype.raider / u0a33 / v101319276:
+           TOTAL: 0.51%
+          Imp Fg: 0.51%
+        (Cached): 57% (2.9MB-4.4MB-5.1MB/2.2MB-3.6MB-4.3MB over 5)
+  * android.process.acore / u0a9 / v22:
+           TOTAL: 0.26%
+        Receiver: 0.26%
+        (Cached): 75% (4.5MB-5.4MB-6.3MB/3.9MB-4.4MB-4.9MB over 5)
+  * android.process.media / u0a11 / v800:
+           TOTAL: 0.20%
+          Imp Fg: 0.02%
+         Service: 0.11%
+        Receiver: 0.06%
+        (Cached): 80% (5.6MB-6.1MB-7.0MB/3.8MB-4.6MB-5.4MB over 8)
+  * com.android.providers.calendar / u0a1 / v22:
+           TOTAL: 0.09%
+         Service: 0.06%
+        Receiver: 0.03%
+        (Cached): 83% (3.6MB-3.7MB-4.0MB/2.6MB-2.7MB-2.8MB over 6)
+
+Run time Stats:
+  SOn /Norm: +1h59m7s719ms
+      TOTAL: +1h59m7s719ms
+
+Memory usage:
+  Kernel : 58MB (32 samples)
+  Native : 31MB (32 samples)
+  Persist: 37MB (20 samples)
+  Top    : 40MB (76 samples)
+  ImpFg  : 72MB (137 samples)
+  ImpBg  : 1.2MB (87 samples)
+  Service: 29MB (183 samples)
+  Receivr: 53KB (183 samples)
+  Home   : 286 (6 samples)
+  LastAct: 5.2MB (4 samples)
+  CchAct : 1.5MB (4 samples)
+  CchEmty: 59MB (195 samples)
+  Cached : 145MB (32 samples)
+  Free   : 11MB (32 samples)
+  TOTAL  : 490MB
+  ServRst: 2.9KB (94 samples)
+
+          Start time: 2016-01-11 12:45:08
+  Total elapsed time: +22h17m11s246ms (partial) libart.so
+
+AGGREGATED OVER LAST 3 HOURS:
+  * system / 1000 / v22:
+           TOTAL: 100% (28MB-36MB-50MB/26MB-32MB-48MB over 6)
+      Persistent: 100% (28MB-36MB-50MB/26MB-32MB-48MB over 6)
+  * com.google.android.wearable.app / u0a4 / v722520221:
+           TOTAL: 99% (16MB-43MB-51MB/13MB-39MB-47MB over 33)
+             Top: 86% (26MB-44MB-51MB/21MB-40MB-47MB over 32)
+          Imp Fg: 13% (16MB-16MB-16MB/13MB-13MB-13MB over 1)
+  * com.google.android.clockwork.systemui / u0a8 / v22:
+           TOTAL: 99% (3.0MB-3.2MB-3.5MB/2.2MB-2.3MB-2.3MB over 6)
+      Persistent: 99% (3.0MB-3.2MB-3.5MB/2.2MB-2.3MB-2.3MB over 6)
+  * com.google.android.apps.wearable.settings / 1000 / v22:
+           TOTAL: 99% (4.3MB-12MB-18MB/3.1MB-9.7MB-14MB over 10)
+             Top: 1.6% (16MB-16MB-16MB/12MB-12MB-12MB over 2)
+          Imp Fg: 97% (4.3MB-11MB-18MB/3.1MB-9.1MB-14MB over 8)
+        (Cached): 0.05%
+  * com.google.android.wearable.ambient / u0a3 / v502152022:
+           TOTAL: 99% (3.1MB-3.3MB-3.5MB/1.9MB-2.4MB-2.7MB over 9)
+             Top: 1.3% (3.3MB-3.3MB-3.3MB/1.9MB-1.9MB-1.9MB over 1)
+          Imp Fg: 98% (3.1MB-3.3MB-3.5MB/2.1MB-2.5MB-2.7MB over 8)
+         Service: 0.02%
+  * com.android.bluetooth / 1002 / v22:
+           TOTAL: 99% (5.3MB-6.2MB-7.4MB/4.7MB-5.2MB-5.7MB over 6)
+          Imp Fg: 99% (5.3MB-6.2MB-7.4MB/4.7MB-5.2MB-5.7MB over 6)
+  * com.motorola.omni / u0a15 / v1000000:
+           TOTAL: 98% (4.3MB-5.8MB-7.5MB/2.9MB-4.7MB-6.1MB over 7)
+          Imp Fg: 84% (4.3MB-5.7MB-7.5MB/2.9MB-4.7MB-6.1MB over 5)
+         Service: 14% (4.7MB-6.0MB-7.2MB/3.5MB-4.7MB-5.8MB over 2)
+  * com.motorola.ccc / u0a2 / v6:
+           TOTAL: 98% (4.5MB-5.2MB-5.8MB/3.5MB-4.1MB-4.2MB over 5)
+         Service: 98% (4.5MB-5.2MB-5.8MB/3.5MB-4.1MB-4.2MB over 5)
+        Receiver: 0.01%
+  * com.google.android.gms.persistent / u0a12 / v8301534:
+           TOTAL: 98% (6.6MB-19MB-30MB/3.6MB-16MB-23MB over 6)
+          Imp Fg: 70% (23MB-25MB-30MB/19MB-22MB-23MB over 4)
+          Imp Bg: 28% (6.6MB-7.0MB-7.5MB/3.6MB-4.2MB-4.8MB over 2)
+      Service Rs: 0.01%
+  * com.google.process.gapps / u0a12 / v22:
+           TOTAL: 97% (8.6MB-16MB-27MB/6.9MB-14MB-20MB over 27)
+             Top: 0.03%
+          Imp Fg: 8.8% (20MB-24MB-27MB/18MB-19MB-20MB over 2)
+          Imp Bg: 0.08%
+         Service: 88% (8.6MB-16MB-26MB/6.9MB-13MB-19MB over 25)
+        Receiver: 0.02%
+        (Cached): 0.53%
+  * com.motorola.targetnotif / u0a14 / v1050046:
+           TOTAL: 96% (10MB-14MB-19MB/8.5MB-11MB-15MB over 6)
+             Top: 0.06%
+          Imp Fg: 84% (10MB-14MB-19MB/8.5MB-12MB-15MB over 5)
+         Service: 12% (13MB-13MB-13MB/9.0MB-9.0MB-9.0MB over 1)
+  * com.tencent.mm / u0a23 / v5:
+           TOTAL: 64% (3.4MB-4.8MB-5.6MB/2.5MB-3.9MB-4.5MB over 4)
+          Imp Fg: 0.98%
+         Service: 63% (3.4MB-4.8MB-5.6MB/2.5MB-3.9MB-4.5MB over 4)
+  * com.google.android.gms.wearable / u0a12 / v7899534:
+           TOTAL: 30% (12MB-13MB-15MB/8.1MB-10.0MB-12MB over 2)
+          Imp Fg: 30% (12MB-13MB-15MB/8.1MB-10.0MB-12MB over 2)
+      Service Rs: 0.01%
+  * com.android.defcontainer / u0a10 / v22:
+           TOTAL: 17% (2.4MB-2.5MB-2.6MB/1.6MB-1.6MB-1.7MB over 2)
+          Imp Fg: 17% (2.4MB-2.5MB-2.6MB/1.6MB-1.6MB-1.7MB over 2)
+        (Cached): 50% (2.8MB-2.8MB-2.9MB/2.2MB-2.3MB-2.3MB over 3)
+  * com.google.android.gms / u0a12 / v8301534:
+           TOTAL: 14% (9.3MB-14MB-22MB/6.3MB-10MB-17MB over 11)
+          Imp Fg: 0.56%
+         Service: 13% (9.3MB-14MB-22MB/6.3MB-10MB-17MB over 11)
+      Service Rs: 0.01%
+        Receiver: 0.13%
+        (Cached): 84% (7.2MB-14MB-22MB/4.3MB-11MB-17MB over 11)
+  * com.google.android.apps.wearable.setup / u0a7 / v22:
+           TOTAL: 13% (19MB-20MB-21MB/14MB-15MB-16MB over 5)
+             Top: 13% (19MB-20MB-21MB/14MB-15MB-16MB over 5)
+        (Cached): 41% (16MB-16MB-16MB/12MB-12MB-12MB over 1)
+  * com.google.android.clockwork.packageinstaller / u0a5 / v22:
+           TOTAL: 7.9% (4.6MB-4.6MB-4.6MB/3.4MB-3.4MB-3.4MB over 1)
+         Service: 7.9% (4.6MB-4.6MB-4.6MB/3.4MB-3.4MB-3.4MB over 1)
+        (Cached): 40% (4.1MB-4.1MB-4.1MB/2.9MB-2.9MB-2.9MB over 1)
+  * com.android.vending / u0a16 / v80390050:
+           TOTAL: 6.6% (7.4MB-7.4MB-7.4MB/6.1MB-6.1MB-6.1MB over 1)
+          Imp Fg: 5.7% (7.4MB-7.4MB-7.4MB/6.1MB-6.1MB-6.1MB over 1)
+          Imp Bg: 0.11%
+         Service: 0.70%
+        Receiver: 0.07%
+        (Cached): 90% (4.5MB-5.3MB-6.7MB/3.8MB-4.4MB-5.3MB over 16)
+  * de.ludetis.android.myheartbeat / u0a41 / v1:
+           TOTAL: 4.4% (16MB-16MB-16MB/14MB-14MB-14MB over 2)
+             Top: 4.4% (16MB-16MB-16MB/14MB-14MB-14MB over 2)
+      (Last Act): 43% (14MB-14MB-14MB/12MB-12MB-12MB over 2)
+        (Cached): 0.56%
+  * com.google.android.deskclock / u0a20 / v42102700:
+           TOTAL: 1.2%
+          Imp Fg: 1.1%
+         Service: 0.06%
+        Receiver: 0.04%
+        (Cached): 96% (3.3MB-4.5MB-6.0MB/2.2MB-3.5MB-4.9MB over 8)
+  * com.google.android.music / u0a29 / v3050:
+           TOTAL: 0.61%
+          Imp Fg: 0.59%
+         Service: 0.02%
+        (Cached): 65% (3.1MB-5.1MB-6.3MB/2.4MB-4.2MB-5.2MB over 4)
+  * com.example.android.wearable.photoswatchface / u0a6 / v22:
+           TOTAL: 0.60%
+          Imp Fg: 0.59%
+        (Cached): 75% (2.4MB-3.3MB-3.8MB/1.9MB-2.6MB-3.0MB over 3)
+  * com.google.android.keep / u0a24 / v2006:
+           TOTAL: 0.58%
+          Imp Fg: 0.58%
+        (Cached): 63% (3.4MB-4.8MB-5.6MB/2.7MB-4.0MB-4.8MB over 3)
+  * com.google.android.apps.wearable.bugreportsender / 2000 / v22:
+           TOTAL: 0.58%
+          Imp Fg: 0.58%
+        (Cached): 84% (2.4MB-3.1MB-3.8MB/1.8MB-2.4MB-3.0MB over 4)
+  * com.skype.raider / u0a33 / v101319276:
+           TOTAL: 0.41%
+          Imp Fg: 0.41%
+        (Cached): 63% (2.9MB-4.3MB-5.1MB/2.2MB-3.6MB-4.3MB over 3)
+  * android.process.acore / u0a9 / v22:
+           TOTAL: 0.38%
+        Receiver: 0.38%
+        (Cached): 95% (4.5MB-5.3MB-6.3MB/3.9MB-4.4MB-4.9MB over 4)
+  * android.process.media / u0a11 / v800:
+           TOTAL: 0.25%
+          Imp Fg: 0.03%
+         Service: 0.15%
+        Receiver: 0.07%
+        (Cached): 68% (5.6MB-6.3MB-7.0MB/3.8MB-4.7MB-5.4MB over 4)
+  * com.android.providers.calendar / u0a1 / v22:
+           TOTAL: 0.08%
+         Service: 0.04%
+        Receiver: 0.04%
+        (Cached): 74% (3.6MB-3.7MB-4.0MB/2.6MB-2.7MB-2.8MB over 4)
+
+Run time Stats:
+  SOn /Norm: +1h14m45s69ms
+      TOTAL: +1h14m45s69ms
+
+Memory usage:
+  Kernel : 58MB (16 samples)
+  Native : 31MB (16 samples)
+  Persist: 39MB (12 samples)
+  Top    : 41MB (74 samples)
+  ImpFg  : 65MB (88 samples)
+  ImpBg  : 2.0MB (43 samples)
+  Service: 27MB (116 samples)
+  Receivr: 55KB (110 samples)
+  Home   : 455 (6 samples)
+  LastAct: 6.2MB (2 samples)
+  CchEmty: 57MB (106 samples)
+  Cached : 149MB (16 samples)
+  Free   : 9.1MB (16 samples)
+  TOTAL  : 483MB
+  ServRst: 4.1KB (52 samples)
+
+          Start time: 2016-01-11 12:45:08
+  Total elapsed time: +1h47m37s665ms (partial) libart.so

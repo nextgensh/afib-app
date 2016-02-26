@@ -1,0 +1,522 @@
+ACTIVITY MANAGER PENDING INTENTS (dumpsys activity intents)
+  * PendingIntentRecord{11d72778 com.google.android.wearable.app startService}
+  * PendingIntentRecord{25728e51 com.motorola.omni broadcastIntent}
+  * PendingIntentRecord{3cc976b6 com.motorola.omni broadcastIntent}
+  * PendingIntentRecord{ab72fb7 android broadcastIntent}
+  * PendingIntentRecord{3f134324 com.motorola.ccc.cce broadcastIntent}
+  * PendingIntentRecord{b80be8d com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{dee4842 com.motorola.omni startService}
+  * PendingIntentRecord{2d851053 com.motorola.omni startService}
+  * PendingIntentRecord{1fd36d90 com.google.android.wearable.ambient broadcastIntent}
+  * PendingIntentRecord{5c7b689 com.google.android.wearable.app startService}
+  * PendingIntentRecord{69ca68e com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{2b465eaf android broadcastIntent}
+  * PendingIntentRecord{829d2bc com.google.android.wearable.app startActivity}
+  * PendingIntentRecord{316c3245 com.motorola.omni broadcastIntent}
+  * PendingIntentRecord{28c09d9a com.google.android.wearable.app startActivity}
+  * PendingIntentRecord{92436cb com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{191f5ea8 com.android.bluetooth broadcastIntent}
+  * PendingIntentRecord{1f22adc1 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{36faf966 android broadcastIntent}
+  * PendingIntentRecord{2bbd74a7 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{395fbd54 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{1c6b64fd com.google.android.wearable.app startService}
+  * PendingIntentRecord{2b2d45f2 com.motorola.ccc.cce broadcastIntent}
+  * PendingIntentRecord{38c2b443 android broadcastIntent}
+  * PendingIntentRecord{2ca55ac0 android broadcastIntent}
+  * PendingIntentRecord{148e53f9 com.google.android.wearable.app broadcastIntent}
+  * PendingIntentRecord{9c5cf3e com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{3652519f com.google.android.wearable.app startService}
+  * PendingIntentRecord{35e562ec com.google.android.wearable.app broadcastIntent}
+  * PendingIntentRecord{55736b5 com.google.android.wearable.app startService}
+  * PendingIntentRecord{1dcba14a com.motorola.omni broadcastIntent}
+  * PendingIntentRecord{41468bb com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{303bc1d8 com.google.android.wearable.app startActivity}
+  * PendingIntentRecord{3918931 com.google.android.wearable.app startService}
+  * PendingIntentRecord{29aa8816 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{a16d597 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{a972384 com.google.android.wearable.app startActivity}
+  * PendingIntentRecord{b44876d com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{18bf0fa2 com.google.android.gms startService}
+  * PendingIntentRecord{39693433 android broadcastIntent}
+  * PendingIntentRecord{1224f3f0 android startActivity}
+  * PendingIntentRecord{17af2d69 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{3da283ee android broadcastIntent}
+  * PendingIntentRecord{3a78e08f com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{377d5f1c com.google.android.wearable.app startActivity}
+  * PendingIntentRecord{3f043725 com.android.providers.calendar broadcastIntent}
+  * PendingIntentRecord{2936f0fa com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{252cf6ab android broadcastIntent}
+  * PendingIntentRecord{3a8f5108 com.google.android.wearable.app broadcastIntent}
+  * PendingIntentRecord{de620a1 android broadcastIntent}
+  * PendingIntentRecord{267322c6 com.android.vending startService}
+  * PendingIntentRecord{1ec25287 com.google.android.gms startService}
+  * PendingIntentRecord{294c75b4 com.motorola.ccc.cce broadcastIntent}
+  * PendingIntentRecord{1ea325dd com.google.android.wearable.app startService}
+  * PendingIntentRecord{26eea552 android broadcastIntent}
+  * PendingIntentRecord{39679023 android startActivity}
+  * PendingIntentRecord{1d153920 com.google.android.wearable.app broadcastIntent}
+  * PendingIntentRecord{283142d9 com.google.android.gms startService}
+  * PendingIntentRecord{2c2dc49e com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{31990b7f android broadcastIntent}
+  * PendingIntentRecord{22e4c74c com.google.android.apps.wearable.settings startActivity}
+  * PendingIntentRecord{ea3395 com.motorola.targetnotif startService}
+  * PendingIntentRecord{39ad8caa com.google.android.wearable.app startService}
+  * PendingIntentRecord{253ce09b com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{3a3d0c38 com.google.android.wearable.app broadcastIntent}
+  * PendingIntentRecord{11077411 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{1bafc976 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{207eeb77 com.google.android.wearable.app broadcastIntent}
+  * PendingIntentRecord{16d2b3e4 com.motorola.omni startService}
+  * PendingIntentRecord{30de404d com.android.providers.calendar broadcastIntent}
+  * PendingIntentRecord{ec70702 com.google.android.wearable.app broadcastIntent}
+  * PendingIntentRecord{1c6cc813 com.google.android.wearable.app broadcastIntent}
+  * PendingIntentRecord{10f92a50 com.google.android.wearable.app startService}
+  * PendingIntentRecord{2edb9449 com.google.android.wearable.app startActivity}
+  * PendingIntentRecord{1422914e android broadcastIntent}
+  * PendingIntentRecord{b51d26f android broadcastIntent}
+  * PendingIntentRecord{30ce9b7c android broadcastIntent}
+
+ACTIVITY MANAGER BROADCAST STATE (dumpsys activity broadcasts)
+  Historical broadcasts [foreground]:
+  #0: BroadcastRecord{39402c05 u-1 android.intent.action.SCREEN_OFF}
+    act=android.intent.action.SCREEN_OFF flg=0x50000010
+  #1: BroadcastRecord{3e9a745a u-1 android.intent.action.SCREEN_ON}
+    act=android.intent.action.SCREEN_ON flg=0x50000010
+  #2: BroadcastRecord{ed3268b u-1 android.intent.action.SCREEN_OFF}
+    act=android.intent.action.SCREEN_OFF flg=0x50000010
+  #3: BroadcastRecord{27f368 u-1 android.intent.action.CLOSE_SYSTEM_DIALOGS}
+    act=android.intent.action.CLOSE_SYSTEM_DIALOGS flg=0x50000010 (has extras)
+    extras: Bundle[{reason=homekey}]
+  #4: BroadcastRecord{279c8381 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #5: BroadcastRecord{47b7c26 u-1 android.intent.action.SCREEN_ON}
+    act=android.intent.action.SCREEN_ON flg=0x50000010
+  #6: BroadcastRecord{33cba067 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #7: BroadcastRecord{f3cde14 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #8: BroadcastRecord{200cd6bd u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #9: BroadcastRecord{221334b2 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #10: act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #11: act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #12: act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #13: act=android.intent.action.SCREEN_OFF flg=0x50000010
+  #14: act=android.intent.action.CLOSE_SYSTEM_DIALOGS flg=0x50000010 (has extras)
+    extras: Bundle[{reason=homekey}]
+  #15: act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #16: act=android.intent.action.SCREEN_ON flg=0x50000010
+  #17: act=android.intent.action.SCREEN_OFF flg=0x50000010
+  #18: act=android.intent.action.SCREEN_ON flg=0x50000010
+  #19: act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #20: act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #21: act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #22: act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #23: act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #24: act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+
+  Historical broadcasts [background]:
+  #0: BroadcastRecord{fe7dc03 u-1 android.intent.action.BATTERY_CHANGED}
+    act=android.intent.action.BATTERY_CHANGED flg=0x60000010 (has extras)
+    extras: Bundle[{technology=, icon-small=17303121, health=1, status=3, plugged=0, present=true, level=54, scale=100, temperature=237, voltage=3834, invalid_charger=0}]
+  #1: BroadcastRecord{1813c780 u-1 android.intent.action.DREAMING_STARTED}
+    act=android.intent.action.DREAMING_STARTED flg=0x40000010
+  #2: BroadcastRecord{143521b9 u0 com.google.android.wearable.action.AMBIENT_STARTED}
+    act=com.google.android.wearable.action.AMBIENT_STARTED flg=0x10
+  #3: BroadcastRecord{18fbe9fe u0 com.google.android.wearable.action.AMBIENT_STARTED}
+    act=com.google.android.wearable.action.AMBIENT_STARTED flg=0x10
+  #4: BroadcastRecord{1d02355f u-1 android.intent.action.CLOSE_SYSTEM_DIALOGS}
+    act=android.intent.action.CLOSE_SYSTEM_DIALOGS flg=0x10
+  #5: BroadcastRecord{2caddbac u0 com.google.android.wearable.action.AMBIENT_STARTED}
+    act=com.google.android.wearable.action.AMBIENT_STARTED flg=0x10
+  #6: BroadcastRecord{11fd2075 u0 com.google.android.wearable.action.AMBIENT_STARTED}
+    act=com.google.android.wearable.action.AMBIENT_STARTED flg=0x10
+  #7: BroadcastRecord{1828a80a u0 com.google.android.wearable.home.action.SLEEP}
+    act=com.google.android.wearable.home.action.SLEEP flg=0x10
+  #8: BroadcastRecord{2e3ec87b u-1 android.intent.action.CLOSE_SYSTEM_DIALOGS}
+    act=android.intent.action.CLOSE_SYSTEM_DIALOGS flg=0x10
+  #9: BroadcastRecord{1bf30698 u0 com.google.android.clockwork.FIRST_TOUCH}
+    act=com.google.android.clockwork.FIRST_TOUCH flg=0x10
+  #10: act=com.google.android.clockwork.FIRST_TOUCH flg=0x10
+  #11: act=android.intent.action.DREAMING_STOPPED flg=0x40000010
+  #12: act=com.android.bluetooth.btservice.action.ALARM_WAKEUP flg=0x14 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #13: act=com.android.bluetooth.btservice.action.ALARM_WAKEUP flg=0x14 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #14: act=com.google.android.wearable.action.TICK flg=0x14 pkg=com.google.android.wearable.ambient (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #15: act=com.google.android.wearable.action.TICK flg=0x14 pkg=com.google.android.wearable.ambient (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #16: act=com.google.android.wearable.action.TICK flg=0x14 pkg=com.google.android.wearable.ambient (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #17: act=com.google.android.wearable.action.TICK flg=0x14 pkg=com.google.android.wearable.ambient (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #18: act=android.net.ConnectivityService.action.PKT_CNT_SAMPLE_INTERVAL_ELAPSED flg=0x14 pkg=android (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #19: act=com.google.android.wearable.action.TICK flg=0x14 pkg=com.google.android.wearable.ambient (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #20: act=com.android.bluetooth.btservice.action.ALARM_WAKEUP flg=0x14 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #21: act=com.android.bluetooth.btservice.action.ALARM_WAKEUP flg=0x14 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #22: act=com.google.android.wearable.action.TICK flg=0x14 pkg=com.google.android.wearable.ambient (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #23: act=com.google.android.wearable.action.TICK flg=0x14 pkg=com.google.android.wearable.ambient (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #24: act=com.google.android.intent.action.SEND_IDLE flg=0x14 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+
+  Sticky broadcasts for user -1:
+  * Sticky action android.media.ACTION_SCO_AUDIO_STATE_UPDATED
+  * Sticky action android.intent.action.BATTERY_CHANGED
+  * Sticky action android.net.conn.CONNECTIVITY_CHANGE
+  * Sticky action android.net.nsd.STATE_CHANGED
+  * Sticky action android.hardware.usb.action.USB_STATE
+  * Sticky action android.media.INTERNAL_RINGER_MODE_CHANGED_ACTION
+  * Sticky action android.net.conn.INET_CONDITION_ACTION
+  * Sticky action android.net.conn.CONNECTIVITY_CHANGE_IMMEDIATE
+  * Sticky action android.media.SCO_AUDIO_STATE_CHANGED
+  * Sticky action android.os.UpdateLock.UPDATE_LOCK_CHANGED
+  * Sticky action android.media.MASTER_MUTE_CHANGED_ACTION
+  * Sticky action wifi_scan_available
+  * Sticky action android.intent.action.HDMI_PLUGGED
+  * Sticky action android.media.RINGER_MODE_CHANGED
+
+ACTIVITY MANAGER CONTENT PROVIDERS (dumpsys activity providers)
+  Published single-user content providers (by class):
+  * ContentProviderRecord{240c4ef1 u0 com.android.providers.settings/.SettingsProvider}
+    proc=ProcessRecord{8a8c038 486:system/1000}
+    singleton=true
+    authority=settings
+    9 connections, 0 external handles
+      -> 620:com.google.android.wearable.app/u0a4 s1/1 u0/0 +17m57s735ms
+      -> 640:com.motorola.targetnotif/u0a14 s1/1 u0/0 +17m57s492ms
+      -> 657:com.google.android.gms.persistent/u0a12 s1/1 u0/0 +17m56s767ms
+      -> 694:com.google.process.gapps/u0a12 s1/1 u0/0 +17m56s442ms
+      -> 720:com.google.android.apps.wearable.settings/1000 s1/1 u0/0 +17m54s336ms
+      -> 804:com.google.android.wearable.ambient/u0a3 s1/1 u0/0 +17m46s953ms
+      -> 973:com.android.bluetooth/1002 s1/1 u0/0 +17m27s781ms
+      -> 556:android.process.media/u0a11 s1/1 u0/0 +17m12s128ms
+      -> 876:com.google.android.gms/u0a12 s1/1 u0/0 +16m43s420ms
+
+  Published user 0 content providers (by class):
+  * ContentProviderRecord{18b13ad6 u0 com.google.android.gsf/.subscribedfeeds.SubscribedFeedsProvider}
+    proc=ProcessRecord{d7b1478 694:com.google.process.gapps/u0a12}
+    authority=subscribedfeeds
+  * ContentProviderRecord{1ae77157 u0 com.google.android.gms/com.google.android.location.reporting.service.ReportingContentProvider}
+    proc=ProcessRecord{36151470 657:com.google.android.gms.persistent/u0a12}
+    authority=com.google.android.location.reporting
+  * ContentProviderRecord{395df444 u0 com.motorola.omni/com.motorola.checkin.collector.CheckinProvider}
+    proc=ProcessRecord{103f9e03 757:com.motorola.omni/u0a15}
+    authority=com.motorola.checkin.motobody
+  * ContentProviderRecord{3e05e92d u0 com.motorola.ccc.cce/.datausage.DataUsageProvider}
+    proc=ProcessRecord{3b5e2e62 1048:com.motorola.ccc/u0a2}
+    authority=com.motorola.ccc.cce.datausage
+  * ContentProviderRecord{3b07cbf3 u0 com.google.android.gsf/.settings.GoogleSettingsProvider}
+    proc=ProcessRecord{d7b1478 694:com.google.process.gapps/u0a12}
+    authority=com.google.settings
+  * ContentProviderRecord{336810b0 u0 com.motorola.omni/.api.OmniDataProvider}
+    proc=ProcessRecord{103f9e03 757:com.motorola.omni/u0a15}
+    authority=com.motorola.omni.standalone
+    1 connections, 0 external handles
+      -> 640:com.motorola.targetnotif/u0a14 s1/1 u0/1 +17m11s455ms
+  * ContentProviderRecord{3084eb29 u0 com.android.providers.media/.MediaProvider}
+    proc=ProcessRecord{32f4ceae 556:android.process.media/u0a11}
+    authority=media
+  * ContentProviderRecord{11c9344f u0 com.motorola.targetnotif/com.motorola.checkin.collector.CheckinProvider}
+    proc=ProcessRecord{2d32b37e 640:com.motorola.targetnotif/u0a14}
+    authority=com.motorola.checkin.api
+  * ContentProviderRecord{24b587dc u0 com.motorola.targetnotif/com.motorola.omni.api.OmniDataProvider}
+    proc=ProcessRecord{2d32b37e 640:com.motorola.targetnotif/u0a14}
+    authority=com.motorola.omni.watchface
+  * ContentProviderRecord{20d810e5 u0 com.android.providers.contacts/.VoicemailContentProvider}
+    proc=ProcessRecord{74327ba 1469:android.process.acore/u0a9}
+    authority=com.android.voicemail
+  * ContentProviderRecord{18ec66b u0 com.motorola.ccc.cce/com.motorola.blur.service.blur.BSMotherProvider}
+    proc=ProcessRecord{3b5e2e62 1048:com.motorola.ccc/u0a2}
+    authority=com.motorola.blur.service.blur.bsmotherprovider
+  * ContentProviderRecord{c0145c8 u0 com.google.android.gms/.common.download.provider.DownloadsProvider}
+    proc=ProcessRecord{27357e12 876:com.google.android.gms/u0a12}
+    authority=com.google.android.gms.download
+  * ContentProviderRecord{7dd661 u0 com.google.android.gsf/.gservices.GservicesProvider}
+    proc=ProcessRecord{d7b1478 694:com.google.process.gapps/u0a12}
+    launchingApp=ProcessRecord{d7b1478 694:com.google.process.gapps/u0a12}
+    authority=com.google.android.gsf.gservices
+  * ContentProviderRecord{3cec0586 u0 com.android.bluetooth/.opp.BluetoothOppProvider}
+    proc=ProcessRecord{25d15e47 973:com.android.bluetooth/1002}
+    authority=com.android.bluetooth.opp
+  * ContentProviderRecord{16c8f674 u0 com.android.providers.media/.MediaDocumentsProvider}
+    proc=ProcessRecord{32f4ceae 556:android.process.media/u0a11}
+    authority=com.android.providers.media.documents
+  * ContentProviderRecord{60779d u0 com.google.android.gms/.common.stats.net.contentprovider.NetworkUsageContentProvider}
+    proc=ProcessRecord{27357e12 876:com.google.android.gms/u0a12}
+    authority=com.google.android.gms.common.stats.net.contentprovider
+  * ContentProviderRecord{2df2f412 u0 com.google.android.gms/.fitness.sync.FitnessContentProvider}
+    proc=ProcessRecord{36151470 657:com.google.android.gms.persistent/u0a12}
+    authority=com.google.android.gms.fitness
+  * ContentProviderRecord{2ebb97e3 u0 com.android.providers.downloads/.DownloadProvider}
+    proc=ProcessRecord{32f4ceae 556:android.process.media/u0a11}
+    authority=downloads
+  * ContentProviderRecord{2ab905e0 u0 com.android.providers.contacts/.CallLogProvider}
+    proc=ProcessRecord{74327ba 1469:android.process.acore/u0a9}
+    authority=call_log
+  * ContentProviderRecord{3bd1f099 u0 com.google.android.wearable.app/com.google.android.clockwork.home.calendar.WearableCalendarProvider}
+    proc=ProcessRecord{24686632 620:com.google.android.wearable.app/u0a4}
+    authority=com.google.android.wearable.provider.calendar
+  * ContentProviderRecord{1f083f5e u0 com.google.android.apps.wearable.settings/com.google.android.clockwork.settings.SettingsProvider}
+    proc=ProcessRecord{1a85cf3f 720:com.google.android.apps.wearable.settings/1000}
+    launchingApp=ProcessRecord{1a85cf3f 720:com.google.android.apps.wearable.settings/1000}
+    authority=com.google.android.wearable.settings
+    5 connections, 0 external handles
+      -> 640:com.motorola.targetnotif/u0a14 s0/0 u1/1 +17m57s677ms
+      -> 620:com.google.android.wearable.app/u0a4 s0/0 u1/1 +17m57s366ms
+      -> 657:com.google.android.gms.persistent/u0a12 s0/0 u1/1 +17m56s858ms
+      -> 804:com.google.android.wearable.ambient/u0a3 s0/0 u1/1 +17m56s852ms
+      -> 876:com.google.android.gms/u0a12 s0/0 u1/1 +16m44s299ms
+  * ContentProviderRecord{19d8a00c u0 com.google.android.wearable.app/com.google.android.clockwork.speech.audio.AudioProvider}
+    proc=ProcessRecord{24686632 620:com.google.android.wearable.app/u0a4}
+    authority=com.google.android.clockwork.speech.audio.raw_audio
+  * ContentProviderRecord{1747fd55 u0 com.google.android.gms/.auth.CredentialStateContentProvider}
+    proc=ProcessRecord{27357e12 876:com.google.android.gms/u0a12}
+    authority=com.google.android.gms.auth.confirm
+  * ContentProviderRecord{1d94f36a u0 com.android.providers.contacts/.debug.DumpFileProvider}
+    proc=ProcessRecord{74327ba 1469:android.process.acore/u0a9}
+    authority=com.android.contacts.dumpfile
+  * ContentProviderRecord{2892205b u0 com.google.android.gms/com.google.android.location.internal.LocationContentProvider}
+    proc=ProcessRecord{36151470 657:com.google.android.gms.persistent/u0a12}
+    authority=com.google.android.location.internal
+  * ContentProviderRecord{2d75b0f8 u0 com.google.android.wearable.app/com.google.android.clockwork.home.alarmstore.AlarmStoreProvider}
+    proc=ProcessRecord{24686632 620:com.google.android.wearable.app/u0a4}
+    authority=com.google.android.clockwork.home.alarmstore
+  * ContentProviderRecord{ed819d1 u0 com.google.android.apps.wearable.bugreportsender/android.support.v4.content.FileProvider}
+    proc=ProcessRecord{3286dc36 1229:com.google.android.apps.wearable.bugreportsender/2000}
+    authority=com.google.android.wearable.app
+  * ContentProviderRecord{22486737 u0 com.google.android.wearable.app/com.google.android.clockwork.home.provider.WearablePackageInfoProvider}
+    proc=ProcessRecord{24686632 620:com.google.android.wearable.app/u0a4}
+    authority=com.google.android.clockwork.home.provider
+  * ContentProviderRecord{33d0e4a4 u0 com.android.providers.userdictionary/.UserDictionaryProvider}
+    proc=ProcessRecord{74327ba 1469:android.process.acore/u0a9}
+    authority=user_dictionary
+  * ContentProviderRecord{3073820d u0 com.google.android.gms/.auth.be.AccountContentProvider}
+    proc=ProcessRecord{36151470 657:com.google.android.gms.persistent/u0a12}
+    authority=com.google.android.gms.auth.accounts
+  * ContentProviderRecord{35dc85c2 u0 com.android.providers.calendar/.CalendarProvider2}
+    proc=ProcessRecord{15b23fd3 1029:com.android.providers.calendar/u0a1}
+    authority=com.android.calendar
+  * ContentProviderRecord{3c89a710 u0 com.motorola.targetnotif/com.motorola.loop.dataProviders.weather.WeatherProvider}
+    proc=ProcessRecord{2d32b37e 640:com.motorola.targetnotif/u0a14}
+    authority=com.motorola.loop.dataProviders.weather
+  * ContentProviderRecord{3de33209 u0 com.android.providers.contacts/.ContactsProvider2}
+    proc=ProcessRecord{74327ba 1469:android.process.acore/u0a9}
+    authority=contacts;com.android.contacts
+  * ContentProviderRecord{ef13c0e u0 com.android.providers.downloads/.DownloadStorageProvider}
+    proc=ProcessRecord{32f4ceae 556:android.process.media/u0a11}
+    authority=com.android.providers.downloads.documents
+
+ACTIVITY MANAGER SERVICES (dumpsys activity services)
+  User 0 active services:
+  * ServiceRecord{3bd119a2 u0 com.motorola.ccc.cce/com.motorola.blur.service.blur.BlurServiceMother}
+    app=ProcessRecord{3b5e2e62 1048:com.motorola.ccc/u0a2}
+    created=-17m27s799ms started=true connections=0
+  * ServiceRecord{422bfe2 u0 com.motorola.targetnotif/com.motorola.loop.analytics.WAService}
+    app=ProcessRecord{2d32b37e 640:com.motorola.targetnotif/u0a14}
+    created=-17m57s677ms started=true connections=0
+  * ServiceRecord{ea8508e u0 com.android.bluetooth/.btservice.AdapterService}
+    app=ProcessRecord{25d15e47 973:com.android.bluetooth/1002}
+    created=-17m29s283ms started=false connections=1
+    Connections:
+      act=android.bluetooth.IBluetooth -> 486:system/1000
+  * ServiceRecord{ba2fe08 u0 com.google.android.gms/com.google.android.location.geocode.GeocodeService}
+    app=ProcessRecord{36151470 657:com.google.android.gms.persistent/u0a12}
+    created=-15m52s741ms started=false connections=1
+    Connections:
+      act=com.android.location.service.GeocodeProvider pkg=com.google.android.gms -> 486:system/1000
+  * ServiceRecord{16c2898a u0 com.motorola.targetnotif/com.motorola.loop.PlayStoreAvailabilityService}
+    app=ProcessRecord{2d32b37e 640:com.motorola.targetnotif/u0a14}
+    created=-17m57s749ms started=true connections=0
+  * ServiceRecord{6838ad0 u0 com.google.android.gms/.gcm.GcmService}
+    app=ProcessRecord{d7b1478 694:com.google.process.gapps/u0a12}
+    created=-17m54s307ms started=true connections=0
+  * ServiceRecord{1ce5c204 u0 com.google.android.apps.wearable.settings/com.google.android.clockwork.settings.AdbTargetService}
+    app=ProcessRecord{1a85cf3f 720:com.google.android.apps.wearable.settings/1000}
+    created=-8m19s330ms started=true connections=0
+  * ServiceRecord{1b349556 u0 com.google.android.wearable.app/com.google.android.clockwork.home.DeepAmbientRecognitionService}
+    app=ProcessRecord{24686632 620:com.google.android.wearable.app/u0a4}
+    created=-24s447ms started=true connections=0
+  * ServiceRecord{348cff2 u0 com.android.bluetooth/.gatt.GattService}
+    app=ProcessRecord{25d15e47 973:com.android.bluetooth/1002}
+    created=-17m28s693ms started=true connections=1
+    Connections:
+      act=android.bluetooth.IBluetoothGatt -> 486:system/1000
+  * ServiceRecord{3688fd45 u0 com.motorola.omni/.api.OmniDataService}
+    app=ProcessRecord{103f9e03 757:com.motorola.omni/u0a15}
+    created=-17m57s364ms started=false connections=1
+    Connections:
+      act=com.motorola.omni.api.IOmniDataService pkg=com.motorola.omni -> 640:com.motorola.targetnotif/u0a14
+  * ServiceRecord{2cbcc1b5 u0 com.google.android.wearable.app/com.google.android.clockwork.home.DispatchingWearableListenerService}
+    app=ProcessRecord{24686632 620:com.google.android.wearable.app/u0a4}
+    created=-17m57s194ms started=true connections=0
+  * ServiceRecord{a808475 u0 com.google.android.wearable.app/com.google.android.clockwork.stream.NotificationCollectorService}
+    app=ProcessRecord{24686632 620:com.google.android.wearable.app/u0a4}
+    created=-17m58s290ms started=true connections=1
+    Connections:
+      act=android.service.notification.NotificationListenerService -> 486:system/1000
+  * ServiceRecord{20f6d6fd u0 com.android.bluetooth/.a2dp.A2dpService}
+    app=ProcessRecord{25d15e47 973:com.android.bluetooth/1002}
+    created=-17m58s246ms started=true connections=1
+    Connections:
+      act=android.bluetooth.IBluetoothA2dp -> 486:system/1000
+  * ServiceRecord{1db7a387 u0 com.google.android.gms/com.google.android.location.geofencer.service.GeofenceProviderService}
+    app=ProcessRecord{36151470 657:com.google.android.gms.persistent/u0a12}
+    created=-15m52s723ms started=false connections=1
+    Connections:
+      act=com.android.location.service.GeofenceProvider pkg=com.google.android.gms -> 486:system/1000
+  * ServiceRecord{3282ab37 u0 android/.hardware.location.GeofenceHardwareService}
+    app=ProcessRecord{8a8c038 486:system/1000}
+    created=-17m58s121ms started=false connections=1
+    Connections:
+       -> 486:system/1000
+  * ServiceRecord{3fd95e05 u0 com.motorola.omni/.SensorListenerService}
+    app=ProcessRecord{103f9e03 757:com.motorola.omni/u0a15}
+    created=-17m12s3ms started=true connections=0
+  * ServiceRecord{1fe94611 u0 com.google.android.apps.wearable.settings/com.google.android.clockwork.settings.VolumeUIService}
+    app=ProcessRecord{1a85cf3f 720:com.google.android.apps.wearable.settings/1000}
+    created=-17m12s665ms started=true connections=0
+  * ServiceRecord{164d9dd9 u0 com.google.android.wearable.ambient/.AmbientService}
+    app=ProcessRecord{22615571 804:com.google.android.wearable.ambient/u0a3}
+    created=-17m56s986ms started=true connections=2
+    Connections:
+      act=com.google.android.wearable.action.BIND_AMBIACTIVE_DREAM pkg=com.google.android.wearable.ambient -> 804:com.google.android.wearable.ambient/u0a3
+      act=com.google.android.wearable.action.BIND_AMBIACTIVE_ACTIVITY pkg=com.google.android.wearable.ambient -> 620:com.google.android.wearable.app/u0a4
+  * ServiceRecord{2932a247 u0 com.motorola.targetnotif/com.motorola.loop.Minimal2Activity}
+    app=ProcessRecord{2d32b37e 640:com.motorola.targetnotif/u0a14}
+    created=-17m58s234ms started=false connections=1
+    Connections:
+      act=android.service.wallpaper.WallpaperService -> 486:system/1000
+  * ServiceRecord{12788a79 u0 com.google.android.apps.wearable.systemui/com.google.android.clockwork.systemui.keyguard.KeyguardService}
+    app=ProcessRecord{1dd7062f 674:com.google.android.clockwork.systemui/u0a8}
+    created=-17m55s625ms started=false connections=1
+    Connections:
+       -> 486:system/1000
+  * ServiceRecord{2a729215 u0 com.google.android.gms/.wearable.node.bluetooth.BluetoothServerService}
+    app=ProcessRecord{36151470 657:com.google.android.gms.persistent/u0a12}
+    created=-17m54s621ms started=true connections=0
+  * ServiceRecord{28104ff3 u0 com.android.location.fused/.FusedLocationService}
+    app=ProcessRecord{8a8c038 486:system/1000}
+    created=-17m58s175ms started=false connections=1
+    Connections:
+      act=com.android.location.service.FusedLocationProvider pkg=com.android.location.fused -> 486:system/1000
+  * ServiceRecord{30a6c660 u0 com.google.android.gms/.common.stats.GmsCoreStatsService}
+    app=ProcessRecord{36151470 657:com.google.android.gms.persistent/u0a12}
+    created=-17m29s677ms started=true connections=0
+  * ServiceRecord{33bd94ea u0 com.google.android.wearable.app/com.google.android.clockwork.home.mr1compat.TiltDetectorService}
+    app=ProcessRecord{24686632 620:com.google.android.wearable.app/u0a4}
+    created=-17m57s385ms started=true connections=0
+  * ServiceRecord{2213e3db u0 com.google.android.wearable.app/com.google.android.clockwork.home.stream.overlay.NotificationOverlayService}
+    app=ProcessRecord{24686632 620:com.google.android.wearable.app/u0a4}
+    created=-17m57s383ms started=true connections=0
+  * ServiceRecord{25c01c48 u0 com.google.android.wearable.ambient/.AmbientDream}
+    app=ProcessRecord{22615571 804:com.google.android.wearable.ambient/u0a3}
+    created=-19s588ms started=false connections=1
+    Connections:
+      act=android.service.dreams.DreamService flg=0x800000 -> 486:system/1000
+  * ServiceRecord{364b2139 u0 com.google.android.gms/.wearable.service.WearableService}
+    app=ProcessRecord{36151470 657:com.google.android.gms.persistent/u0a12}
+    created=-17m57s841ms started=true connections=3
+    Connections:
+      act=com.google.android.gms.wearable.BIND pkg=com.google.android.gms -> 640:com.motorola.targetnotif/u0a14
+      act=com.google.android.gms.wearable.BIND pkg=com.google.android.gms -> 620:com.google.android.wearable.app/u0a4
+      act=com.google.android.gms.wearable.BIND pkg=com.google.android.gms -> 1256:com.tencent.mm/u0a23
+  * ServiceRecord{1360aa18 u0 com.tencent.mm/.wear.app.service.StepCountService}
+    app=ProcessRecord{e8fb153 1256:com.tencent.mm/u0a23}
+    created=-16m47s761ms started=true connections=0
+
+ACTIVITY MANAGER RECENT TASKS (dumpsys activity recents)
+  Recent tasks:
+  * Recent #0: TaskRecord{2fca243c #21 A=com.google.android.wearable.app U=0 sz=1}
+  * Recent #1: TaskRecord{3283e5c5 #22 A=com.google.android.apps.wearable.settings U=0 sz=0}
+  * Recent #2: TaskRecord{2d890b1a #19 I=com.motorola.omni/.onboarding.OnboardingMainActivity U=0 sz=0}
+  * Recent #3: TaskRecord{14d7d64b #18 A=de.ludetis.android.myheartbeat U=0 sz=0}
+  * Recent #4: TaskRecord{2c334828 #6 A=.SecureAdbConfirmation U=0 sz=0}
+
+ACTIVITY MANAGER ACTIVITIES (dumpsys activity activities)
+Display #0 (activities from top to bottom):
+  Stack #0:
+    Task id #21
+      TaskRecord{2fca243c #21 A=com.google.android.wearable.app U=0 sz=1}
+      Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10000000 cmp=com.google.android.wearable.app/com.google.android.clockwork.home.HomeActivity }
+        Hist #0: ActivityRecord{26eb27a u0 com.google.android.wearable.app/com.google.android.clockwork.home.HomeActivity t21}
+          Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10000000 cmp=com.google.android.wearable.app/com.google.android.clockwork.home.HomeActivity }
+          ProcessRecord{24686632 620:com.google.android.wearable.app/u0a4}
+
+    Running activities (most recent first):
+      TaskRecord{2fca243c #21 A=com.google.android.wearable.app U=0 sz=1}
+        Run #0: ActivityRecord{26eb27a u0 com.google.android.wearable.app/com.google.android.clockwork.home.HomeActivity t21}
+
+    mResumedActivity: ActivityRecord{26eb27a u0 com.google.android.wearable.app/com.google.android.clockwork.home.HomeActivity t21}
+
+  mFocusedActivity: ActivityRecord{26eb27a u0 com.google.android.wearable.app/com.google.android.clockwork.home.HomeActivity t21}
+  mFocusedStack=ActivityStack{28c21941 stackId=0, 1 tasks} mLastFocusedStack=ActivityStack{28c21941 stackId=0, 1 tasks}
+  mSleepTimeout=false
+  mCurTaskId=22
+  mUserStackInFront={}
+  mActivityContainers={0=ActivtyContainer{0}A, 1=ActivtyContainer{1}A}
+
+ACTIVITY MANAGER RUNNING PROCESSES (dumpsys activity processes)
+  Process LRU list (sorted by oom_adj, 23 total, non-act at 3, non-svc at 3):
+    PERS #22: sys   F/ /P  trm: 0 486:system/1000 (fixed)
+    PERS #21: pers  F/ /P  trm: 0 674:com.google.android.clockwork.systemui/u0a8 (fixed)
+    Proc #19: psvc  F/ /IF trm: 0 973:com.android.bluetooth/1002 (service)
+        com.android.bluetooth/.gatt.GattService<=Proc{486:system/1000}
+    Proc # 4: fore  F/S/IF trm: 0 720:com.google.android.apps.wearable.settings/1000 (provider)
+        com.google.android.apps.wearable.settings/com.google.android.clockwork.settings.SettingsProvider<=Proc{620:com.google.android.wearable.app/u0a4}
+    Proc # 0: fore  F/A/T  trm: 0 620:com.google.android.wearable.app/u0a4 (top-activity)
+    Proc # 8: vis   F/ /IF trm: 0 757:com.motorola.omni/u0a15 (service)
+        com.motorola.omni/.api.OmniDataService<=Proc{640:com.motorola.targetnotif/u0a14}
+    Proc # 6: vis   F/ /IF trm: 0 640:com.motorola.targetnotif/u0a14 (service)
+        com.motorola.targetnotif/com.motorola.loop.Minimal2Activity<=Proc{486:system/1000}
+    Proc # 2: vis   F/S/IF trm: 0 657:com.google.android.gms.persistent/u0a12 (service)
+        com.google.android.gms/com.google.android.location.geocode.GeocodeService<=Proc{486:system/1000}
+    Proc # 1: vis   F/ /IF trm: 0 804:com.google.android.wearable.ambient/u0a3 (service)
+        com.google.android.wearable.ambient/.AmbientService<=Proc{620:com.google.android.wearable.app/u0a4}
+    Proc # 5: svc   B/ /S  trm: 0 1256:com.tencent.mm/u0a23 (started-services)
+    Proc # 3: svc   B/ /S  trm: 0 694:com.google.process.gapps/u0a12 (started-services)
+    Proc #20: svcb  B/ /S  trm: 0 1048:com.motorola.ccc/u0a2 (started-services)
+    Proc #10: cch   B/ /CE trm: 0 1469:android.process.acore/u0a9 (cch-empty)
+    Proc # 9: cch   B/ /CE trm: 0 1085:com.android.vending/u0a16 (cch-empty)
+    Proc # 7: cch   B/ /CE trm: 0 876:com.google.android.gms/u0a12 (cch-empty)
+    Proc #13: cch+2 B/ /CE trm: 0 1207:com.skype.raider/u0a33 (cch-empty)
+    Proc #12: cch+2 B/ /CE trm: 0 1029:com.android.providers.calendar/u0a1 (cch-empty)
+    Proc #11: cch+2 B/ /CE trm: 0 992:com.google.android.deskclock/u0a20 (cch-empty)
+    Proc #16: cch+4 B/ /CE trm: 0 858:com.google.android.music/u0a29 (cch-empty)
+    Proc #15: cch+4 B/ /CE trm: 0 1190:com.example.android.wearable.photoswatchface/u0a6 (cch-empty)
+    Proc #14: cch+4 B/ /CE trm: 0 1229:com.google.android.apps.wearable.bugreportsender/2000 (cch-empty)
+    Proc #18: cch+6 B/ /CE trm: 0 556:android.process.media/u0a11 (cch-empty)
+    Proc #17: cch+6 B/ /CE trm: 0 1166:com.google.android.keep/u0a24 (cch-empty)
+
+  mStartedUsers:
+    User #0: mState=RUNNING
+  mStartedUserArray: [0]
+  mUserLru: [0]
+  mHomeProcess: ProcessRecord{24686632 620:com.google.android.wearable.app/u0a4}
+  mConfiguration: {0.85 ?mcc?mnc en_US ?layoutDir sw185dp w205dp h185dp 280dpi smll land watch finger -keyb/h/h -nav/h s.5}
+  mWakefulness=Dozing
+  mSleeping=false mLockScreenShown=LOCK_SCREEN_HIDDEN
+  mShuttingDown=false mRunningVoice=false mTestPssMode=false

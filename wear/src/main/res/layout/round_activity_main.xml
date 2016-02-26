@@ -3,11 +3,37 @@
     xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
     android:layout_height="match_parent" tools:context=".MainActivity" tools:deviceIds="wear_round"
     android:background="@drawable/background">
-
-    <TextView android:text="11" android:layout_width="wrap_content"
+    <TextView android:text="0" android:layout_width="wrap_content"
         android:id="@+id/heartbeat"
         android:layout_height="wrap_content"
         android:textColor="#77ff99"
-        android:textSize="128sp"
-        android:layout_gravity="center"/>
+        android:textSize="20sp"
+        android:layout_gravity="center_horizontal|top"/>
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Stop HR"
+        android:id="@+id/butt_stophr"
+        android:layout_gravity="right|center_vertical"
+        android:onClick="stopHR"/>
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Start HR"
+        android:id="@+id/butt_starthr"
+        android:layout_gravity="left|center_vertical"
+        android:onClick="startHR"/>
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Dump"
+        android:id="@+id/butt_dump"
+        android:layout_gravity="center_horizontal|bottom"
+        android:onClick="dumpDB"/>
 </FrameLayout>

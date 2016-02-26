@@ -1,0 +1,416 @@
+Applications Graphics Acceleration Info:
+Uptime: 696688 Realtime: 1124583
+
+** Graphics info for pid 620 [com.google.android.wearable.app] **
+
+Recent DisplayList operations
+              DrawRoundRect
+            DrawRenderNode
+              Save
+              ConcatMatrix
+              Save
+              DrawBitmap
+              RestoreToCount
+RestoreToCount
+DrawColor
+DrawColor
+DrawRoundRect
+DrawBitmap
+DrawRenderNode
+  Save
+  ClipRect
+  DrawText
+  RestoreToCount
+DrawRenderNode
+  Save
+  ClipRect
+  DrawText
+  DrawText
+  DrawText
+  RestoreToCount
+Save
+DrawRenderNode
+  DrawRenderNode
+  DrawRenderNode
+    DrawRenderNode
+      DrawRenderNode
+        DrawRenderNode
+          DrawRenderNode
+          DrawRenderNode
+          DrawRenderNode
+            DrawRenderNode
+        DrawRenderNode
+          DrawRenderNode
+            DrawRenderNode
+              DrawRoundRect
+            DrawRenderNode
+              Save
+              ConcatMatrix
+              Save
+              DrawBitmap
+              RestoreToCount
+RestoreToCount
+multiDraw
+  DrawText
+DrawRoundRect
+DrawBitmap
+
+Caches:
+Current memory usage / total memory usage (bytes):
+  TextureCache          1156776 / 25165824
+  LayerCache            1572864 / 16777216 (numLayers = 4)
+    Layer size 256x128; isTextureLayer()=0; texid=17 fbo=0; refs=1
+    Layer size 256x192; isTextureLayer()=0; texid=16 fbo=6; refs=1
+    Layer size 384x384; isTextureLayer()=0; texid=6 fbo=0; refs=1
+    Layer size 256x256; isTextureLayer()=0; texid=9 fbo=0; refs=1
+    Layer size 384x384; isTextureLayer()=0; texid=10 fbo=0; refs=1
+  Layers total    1769472 (numLayers = 5)
+  RenderBufferCache           0 /  2097152
+  GradientCache               0 /   524288
+  PathCache               56100 / 10485760
+  TessellationCache      111600 /  1048576
+  TextDropShadowCache      4176 /  2097152
+  PatchCache                 64 /   131072
+  FontRenderer 0 A8      524288 /   524288
+  FontRenderer 0 RGBA         0 /        0
+  FontRenderer 0 total   524288 /   524288
+Other:
+  FboCache                    0 /        0
+Total memory usage:
+  3622476 bytes, 3.45 MB
+
+Profile data in ms:
+
+	com.google.android.wearable.app/com.google.android.clockwork.home.HomeActivity/android.view.ViewRootImpl@336f0509 (visibility=0)
+View hierarchy:
+
+  com.google.android.wearable.app/com.google.android.clockwork.home.HomeActivity/android.view.ViewRootImpl@336f0509
+  180 views, 162.93 kB of display lists
+
+
+Total ViewRootImpl: 1
+Total Views:        180
+Total DisplayList:  162.93 kB
+
+
+** Graphics info for pid 804 [com.google.android.wearable.ambient] **
+Profile data in ms:
+
+View hierarchy:
+
+
+Total ViewRootImpl: 0
+Total Views:        0
+Total DisplayList:  0.00 kB
+
+
+** Graphics info for pid 657 [com.google.android.gms.persistent] **
+Profile data in ms:
+
+View hierarchy:
+
+
+Total ViewRootImpl: 0
+Total Views:        0
+Total DisplayList:  0.00 kB
+
+
+** Graphics info for pid 694 [com.google.process.gapps] **
+Profile data in ms:
+
+View hierarchy:
+
+
+Total ViewRootImpl: 0
+Total Views:        0
+Total DisplayList:  0.00 kB
+
+
+** Graphics info for pid 720 [com.google.android.apps.wearable.settings] **
+
+Recent DisplayList operations
+        DrawRenderNode
+          DrawRenderNode
+            DrawRenderNode
+              DrawOval
+              DrawCircle
+              Save
+              Translate
+              DrawBitmap
+              RestoreToCount
+            DrawRenderNode
+        DrawRenderNode
+          DrawRenderNode
+            DrawRenderNode
+              DrawOval
+              DrawCircle
+              Save
+              Translate
+              DrawBitmap
+              RestoreToCount
+            DrawRenderNode
+              Save
+              ClipRect
+              DrawText
+              RestoreToCount
+        DrawRenderNode
+          DrawRenderNode
+            DrawRenderNode
+              DrawOval
+              DrawCircle
+              Save
+              Translate
+              DrawBitmap
+              RestoreToCount
+            DrawRenderNode
+              Save
+              ClipRect
+              DrawText
+              RestoreToCount
+RestoreToCount
+DrawRect
+DrawOval
+DrawCircle
+DrawOval
+DrawCircle
+DrawOval
+DrawCircle
+DrawBitmap
+DrawBitmap
+DrawText
+DrawText
+
+Caches:
+Current memory usage / total memory usage (bytes):
+  TextureCache            49000 / 25165824
+  LayerCache                  0 / 16777216 (numLayers = 0)
+  Layers total          0 (numLayers = 0)
+  RenderBufferCache           0 /  2097152
+  GradientCache               0 /   524288
+  PathCache                   0 / 10485760
+  TessellationCache           0 /  1048576
+  TextDropShadowCache         0 /  2097152
+  PatchCache                  0 /   131072
+  FontRenderer 0 A8      524288 /   524288
+  FontRenderer 0 RGBA         0 /        0
+  FontRenderer 0 total   524288 /   524288
+Other:
+  FboCache                    0 /        0
+Total memory usage:
+  573288 bytes, 0.55 MB
+
+Profile data in ms:
+
+View hierarchy:
+
+
+Total ViewRootImpl: 0
+Total Views:        0
+Total DisplayList:  0.00 kB
+
+
+** Graphics info for pid 1256 [com.tencent.mm] **
+Profile data in ms:
+
+View hierarchy:
+
+
+Total ViewRootImpl: 0
+Total Views:        0
+Total DisplayList:  0.00 kB
+
+
+** Graphics info for pid 640 [com.motorola.targetnotif] **
+Profile data in ms:
+
+View hierarchy:
+
+
+Total ViewRootImpl: 0
+Total Views:        0
+Total DisplayList:  0.00 kB
+
+
+** Graphics info for pid 876 [com.google.android.gms] **
+Profile data in ms:
+
+View hierarchy:
+
+
+Total ViewRootImpl: 0
+Total Views:        0
+Total DisplayList:  0.00 kB
+
+
+** Graphics info for pid 757 [com.motorola.omni] **
+Profile data in ms:
+
+View hierarchy:
+
+
+Total ViewRootImpl: 0
+Total Views:        0
+Total DisplayList:  0.00 kB
+
+
+** Graphics info for pid 1085 [com.android.vending] **
+Profile data in ms:
+
+View hierarchy:
+
+
+Total ViewRootImpl: 0
+Total Views:        0
+Total DisplayList:  0.00 kB
+
+
+** Graphics info for pid 1469 [android.process.acore] **
+Profile data in ms:
+
+View hierarchy:
+
+
+Total ViewRootImpl: 0
+Total Views:        0
+Total DisplayList:  0.00 kB
+
+
+** Graphics info for pid 992 [com.google.android.deskclock] **
+Profile data in ms:
+
+View hierarchy:
+
+
+Total ViewRootImpl: 0
+Total Views:        0
+Total DisplayList:  0.00 kB
+
+
+** Graphics info for pid 1029 [com.android.providers.calendar] **
+Profile data in ms:
+
+View hierarchy:
+
+
+Total ViewRootImpl: 0
+Total Views:        0
+Total DisplayList:  0.00 kB
+
+
+** Graphics info for pid 1207 [com.skype.raider] **
+Profile data in ms:
+
+View hierarchy:
+
+
+Total ViewRootImpl: 0
+Total Views:        0
+Total DisplayList:  0.00 kB
+
+
+** Graphics info for pid 1229 [com.google.android.apps.wearable.bugreportsender] **
+Profile data in ms:
+
+View hierarchy:
+
+
+Total ViewRootImpl: 0
+Total Views:        0
+Total DisplayList:  0.00 kB
+
+
+** Graphics info for pid 1190 [com.example.android.wearable.photoswatchface] **
+Profile data in ms:
+
+View hierarchy:
+
+
+Total ViewRootImpl: 0
+Total Views:        0
+Total DisplayList:  0.00 kB
+
+
+** Graphics info for pid 858 [com.google.android.music] **
+Profile data in ms:
+
+View hierarchy:
+
+
+Total ViewRootImpl: 0
+Total Views:        0
+Total DisplayList:  0.00 kB
+
+
+** Graphics info for pid 1166 [com.google.android.keep] **
+Profile data in ms:
+
+View hierarchy:
+
+
+Total ViewRootImpl: 0
+Total Views:        0
+Total DisplayList:  0.00 kB
+
+
+** Graphics info for pid 556 [android.process.media] **
+Profile data in ms:
+
+View hierarchy:
+
+
+Total ViewRootImpl: 0
+Total Views:        0
+Total DisplayList:  0.00 kB
+
+
+** Graphics info for pid 973 [com.android.bluetooth] **
+Profile data in ms:
+
+View hierarchy:
+
+
+Total ViewRootImpl: 0
+Total Views:        0
+Total DisplayList:  0.00 kB
+
+
+** Graphics info for pid 1048 [com.motorola.ccc] **
+Profile data in ms:
+
+View hierarchy:
+
+
+Total ViewRootImpl: 0
+Total Views:        0
+Total DisplayList:  0.00 kB
+
+
+** Graphics info for pid 674 [com.google.android.clockwork.systemui] **
+Profile data in ms:
+
+	/android.view.ViewRootImpl@12f010bd (visibility=4)
+View hierarchy:
+
+  /android.view.ViewRootImpl@12f010bd
+  2 views, 1.59 kB of display lists
+
+
+Total ViewRootImpl: 1
+Total Views:        2
+Total DisplayList:  1.59 kB
+
+
+** Graphics info for pid 486 [system] **
+Profile data in ms:
+
+	KeyguardScrim/android.view.ViewRootImpl@18151a71 (visibility=8)
+View hierarchy:
+
+  KeyguardScrim/android.view.ViewRootImpl@18151a71
+  1 views, 0.80 kB of display lists
+
+
+Total ViewRootImpl: 1
+Total Views:        1
+Total DisplayList:  0.80 kB
+

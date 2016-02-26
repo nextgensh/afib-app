@@ -13,16 +13,16 @@ import android.os.Bundle;
 import android.os.IBinder;
 import android.support.wearable.view.WatchViewStub;
 import android.util.Log;
+import android.view.View;
 import android.widget.TextView;
 
 public class WearActivity extends Activity implements HeartbeatService.OnChangeListener {
 
 
+    private IBinder serviceBinder = null;
     private static final String LOG_TAG = "MyHeart";
 
     private TextView mTextView;
-
-
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -37,12 +37,14 @@ public class WearActivity extends Activity implements HeartbeatService.OnChangeL
                 // as soon as layout is there...
                 mTextView = (TextView) stub.findViewById(R.id.heartbeat);
                 // bind to our service.
+
                 bindService(new Intent(WearActivity.this, HeartbeatService.class), new ServiceConnection() {
                     @Override
                     public void onServiceConnected(ComponentName componentName, IBinder binder) {
                         Log.d(LOG_TAG, "connected to service.");
                         // set our change listener to get change events
-                        ((HeartbeatService.HeartbeatServiceBinder)binder).setChangeListener(WearActivity.this);
+                        ((HeartbeatService.HeartbeatServiceBinder) binder).setChangeListener(WearActivity.this);
+                        serviceBinder = binder;
                     }
 
                     @Override
@@ -50,6 +52,7 @@ public class WearActivity extends Activity implements HeartbeatService.OnChangeL
 
                     }
                 }, Service.BIND_AUTO_CREATE);
+
             }
         });
     }
@@ -64,4 +67,27 @@ public class WearActivity extends Activity implements HeartbeatService.OnChangeL
         // will be called by the service whenever the heartbeat value changes.
         mTextView.setText(Integer.toString(newValue));
     }
+
+    // Callback for the starthr button.
+    public void startHR(View v) {
+        if(serviceBinder != null) {
+            ((HeartbeatService.HeartbeatServiceBinder)serviceBinder).startHR();
+        }
+    }
+
+    // Callback for the stophr button.
+    public void stopHR(View v) {
+        if(serviceBinder != null) {
+            ((HeartbeatService.HeartbeatServiceBinder)serviceBinder).stopHR();
+        }
+    }
+
+    // Callback for dumping all the database contents.
+    public void dumpDB(View v) {
+        if(serviceBinder != null) {
+            ((HeartbeatService.HeartbeatServiceBinder)serviceBinder)._dumpDB();
+        }
+    }
 }
+
+
